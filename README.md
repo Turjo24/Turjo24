@@ -20,7 +20,9 @@
 - 🔬 Working on thesis/research in **Machine Learning** & **Speech Recognition** (low-resource language ASR)
 - 💻 Experience building full-stack apps with **Flutter**, **MERN**, **Laravel**, and **ASP.NET Core**
 - 🌱 Always exploring new tech — currently diving deeper into ML model evaluation (WER, CER, noise robustness)
-- 📫 Reach me at: *add your email here*
+- 📫 Reach me at: *turjodutta023@gmail.com
+###  MY CV
+- https://docs.google.com/document/d/1Es9CuD5thJSzCsF6sCa-RI8XKVCYBuHguygkG49Fc0I/edit?usp=sharing
 
 ---
 
@@ -60,10 +62,10 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/sharadindu-dutta-3a8923419/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:turjodutta023@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
