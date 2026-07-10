@@ -23,7 +23,8 @@
 - 📫 Reach me at: *turjodutta023@gmail.com
 ###  MY CV
 - https://docs.google.com/document/d/1Es9CuD5thJSzCsF6sCa-RI8XKVCYBuHguygkG49Fc0I/edit?usp=sharing
-
+### 🚀 My Portfolio
+https://turjodev.vercel.app/
 ---
 
 ### 🛠️ Tech Stack
